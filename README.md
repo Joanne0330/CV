@@ -57,6 +57,7 @@ My 15 years of teaching experiences enabled me many skills which are crucial in 
 - Teaching violin to 11-18 yr old students
 
 **Townley Grammar School** (2014 to now)
+*Professor of violin*
 - Teaching violin to 11-18 yr old students
 
 ## Hobbies
