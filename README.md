@@ -1,6 +1,8 @@
 ## Joanne Chen
 
-Organised, passionate, attention to details, I am a unique software developer whose dev background actually started with 14 years of experience as a classical musician, performing world class concerts all over the world. From concert halls to my computer, culture to the tech world, the structure, creativity and the elegance in both music and in software are equally facinating to me. 
+Organised, passionate, attention to details, I am a unique software developer whose dev background started with 14 years of experience as a classical musician, performing concerts all over the world. From concert halls to my computer, culture to the tech world, the structure, creativity and the elegance in both music and in software are equally facinating to me. 
+
+To build a software is like writing a symphony, one starts with creating a bar or a harmony and weave them into a phrase. Phrases then intertwine with one another, perhaps with different colours of sound or instruments, and there you have a movement of a symphony. The principle of building a software is just like writing a symphony, and here in Makers is exactly what we're doing: after just 4 weeks of journey in coding, I have already build a directory in Makers' PreCourse, setting different commands to create, open, to variety of links and functions, from small to large, simple to complex.  
 
 ## Trained professional, I mean, really professional
 
