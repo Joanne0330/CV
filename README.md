@@ -1,67 +1,80 @@
-## Joanne Chen
+<!DOCTYPE html>
+<h1 align="center">Joanne Chen</h1>
 
-Organised, passionate, attention to details, I am a unique software developer whose dev background started with 14 years of experience as a classical musician, performing concerts all over the world. From concert halls to my computer, culture to the tech world, the structure, creativity and the elegance in both music and in software are equally facinating to me. 
+<div align="center">
 
-To build a software is like writing a symphony, one starts with creating a bar or a harmony and weave them into a phrase. Phrases then intertwine with one another, perhaps with different colours of sound or instruments, and there you have a movement of a symphony. The principle of building a software is just like writing a symphony, and here in Makers is exactly what we're doing: after just 4 weeks of journey in coding, I have already build a directory in Makers' PreCourse, setting different commands to create, open, to variety of links and functions, from small to large, simple to complex.  
+<em>
+Why did I want to be a developer? <br>
+I want to build cool things, solve challenging problems and one day mentor and help people in an industry I love!<br><br>
+Why me? <br>
+I'm ready to jump into any challenge. Learning and growing is the aim of the game so that I can one day help others learn and grow.
+</em>
+</div>
+<br>
 
-## Trained professional, I mean, really professional
+## About Me
 
-Many dream of being a musician but it takes a character to be a professional. It shows how a passion transforms into determination and pereverence, as well as courage to face both boring repetition and difficult challenges, to finding the patience to achieve the ultimate perfection, if there's ever such a thing as perfection.
+<br>
 
-#### Flexible working mode: solo or team
+## Traing in Software Development at Makers Academy, London (May - August 2020)
 
-- Experience 
-- Achievements
-- Evidence
+- **Languages:** Ruby, JavaScript, Python, SQL, HTML, CSS
+- **Framework, libraries, databases:** React, Rails, Flask, PostgresSQL, MongoDB
+- **TDD Testing with:** Rspec, Jasmine, Jest, Unittest, Capybara
+- **Other experience in:** Agile group projects, pair programming, TravisCI, Heroku
 
-#### Teaching
+## Notable Projects
 
-My 15 years of teaching experiences enabled me many skills which are crucial in the dev world:
+[AIsha - Artificial.Intelligence.Self.Help.App](https://github.com/aravzpatel/AIsha)**(React, Flask, Python, Heroku)**
+  **Description:** A machine learning chatbot which analyses user’s emotions (joy, sadness, anger and fear) after a text input, then replies with appropriate responses. The result is then stored in the data and prints out a graph of these emotions for the user to track his/her daily progress.
 
-- Observation: What works, what doesn't. Finding out areas needing improvment.
-- Analytical: Analysing areas of problem. Mapping out a plan, or solution. 
-- Problem solve: Not just problem solve, but also help and teach others how to problem solve.
-- Communication: explain in details and in clear progression how things should be proceed and achieved. 
+[Dreambook](https://github.com/katieljones/acebook-dreambook-2020)**(Rails, Ruby, Postgres, Heroku)**
+  **Description:**A mock facebook where user can create an account with email and password, sign-in and sign-out, and write, update, delete messages on the feed. Other users can also comment on the messages, and click ‘like’. Each user also has his or her own wall.
+
+## Past Professions
+
+### Freelance classical musician (violin) performing with:
+
+#### BBC Symphony Orchestra (2016 - recent)
+#### Royal Philharmonic Orchestra (2014 - recent)
+#### London Philharmonic Orchestra (2007 - recent)
+#### Philharmonic Orchestra (2012 - recent)
+ - strong determination to achieve high-level skills. 
+ - attention to details to give world-class performances.
+ - ability to work in large teams on regular basis.  
+
+### Faculty of Violin, teaching in the following:
+
+#### St. Marylebone School, London (2012 - recent)
+#### Townley Grammar School, Bexley Kent (2013 - recent)
+ - ability to observe and analyse a problem in a student's playing.
+ - able to quickly form a structured plan and solution to solve the problem.
+ - verbalise and demonstrate the plan in a friendly and supportive manner.
+ - planning longterm goals for students to follow, preparing important exams.
+
+### Founder and Violinist of the Mancini String Quartet
+ - ability to communicate with clients for weddings and other events.
+ - arrange music for ensembles.
+ - organise travel and booking arrangements for musicians.
+ - ensuring smooth running of the service on the day.
 
 ## Education
 
-#### Makers Academy (June - August 2020)
+#### Makers Academy (May - August 2020) - Software Development
+#### Guildhall School of Music and Drama (2005 - 2007) - Master of Music 
+#### Conservatory of Amsterdam, the Netherlands (2002 - 2004) - Postgraduate Diploma
+#### New England Conservatory, Boston USA (1998 - 2002) - Bachelor of Music
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+### Spoken Languages
 
-#### Guildhall School of Music and Drama, London (2005 to 2007)
+  **English** (fluent)
+  **Mandarin-Chinese** (fluent)
+  **French** (intermediate level)
 
-- Master degree in Music - in Chamber Music Performance (Violin)
+### Hobbies
 
-#### Conservatory of Amsterdam, Netherlands (2002 to 2004
+* Cooking. Watching food programmes and trying new recipes from different parts of the world. 
+* Travelling around the world, visiting museums and historical sites.
+* Playing chamber music with friends. Favourite composers are: Bach, Mendelssohn, Brahms, Bartok, and Ravel. 
+* Volunteer teaching music to children in refugee camps, and playing music for patients in hospital, etc. 
 
-- Post Graduate Diploma - Solo Violin Performance
-
-#### New England Conservatory, Boston USA (1998 to 2002)
-
-- Undergraduate degree in Music - Solo Violin Performance
-
-## Experience
-
-**Self-Employed Violinist, UK** (2007 to now)    
-*First Violinist in the following orchestras:*  
-- Royal Philharmonic Orchestra
-- London Symphony Orchestra
-- BBC Symphony Orchestra
-- London Philharmonic Orchestra
-- The Philharmonia
-
-**Sty Marylebone School** (2012 to now)   
-*Professor of violin*  
-- Teaching violin to 11-18 yr old students
-
-**Townley Grammar School** (2014 to now)
-*Professor of violin*
-- Teaching violin to 11-18 yr old students
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
