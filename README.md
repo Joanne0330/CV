@@ -16,7 +16,8 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 
 <br>
 
-## Traing in Software Development at Makers Academy, London (May - August 2020)
+## Traing in Software Development
+### Makers Academy, London (May - August 2020)
 
 - **Languages:** Ruby, JavaScript, Python, SQL, HTML, CSS
 - **Framework, libraries, databases:** React, Rails, Flask, PostgresSQL, MongoDB
@@ -35,18 +36,18 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 
 ### Freelance classical musician (violin) performing with:
 
-#### BBC Symphony Orchestra (2016 - recent)
-#### Royal Philharmonic Orchestra (2014 - recent)
-#### London Philharmonic Orchestra (2007 - recent)
-#### Philharmonic Orchestra (2012 - recent)
+**BBC Symphony Orchestra (2016 - recent)**
+**Royal Philharmonic Orchestra (2014 - recent)**
+**London Philharmonic Orchestra (2007 - recent)**
+**Philharmonic Orchestra (2012 - recent)**
  - strong determination to achieve high-level skills. 
  - attention to details to give world-class performances.
  - ability to work in large teams on regular basis.  
 
-### Faculty of Violin, teaching in the following:
+### Faculty of Violin, teaching in the following schools:
 
-#### St. Marylebone School, London (2012 - recent)
-#### Townley Grammar School, Bexley Kent (2013 - recent)
+**St. Marylebone School, London (2012 - recent)**
+**Townley Grammar School, Bexley Kent (2013 - recent)**
  - ability to observe and analyse a problem in a student's playing.
  - able to quickly form a structured plan and solution to solve the problem.
  - verbalise and demonstrate the plan in a friendly and supportive manner.
@@ -60,16 +61,16 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 
 ## Education
 
-#### Makers Academy (May - August 2020) - Software Development
-#### Guildhall School of Music and Drama (2005 - 2007) - Master of Music 
-#### Conservatory of Amsterdam, the Netherlands (2002 - 2004) - Postgraduate Diploma
-#### New England Conservatory, Boston USA (1998 - 2002) - Bachelor of Music
+**Makers Academy (May - August 2020)** - Software Development**
+**Guildhall School of Music and Drama (2005 - 2007)** - Master of Music 
+**Conservatory of Amsterdam, the Netherlands (2002 - 2004)** - Postgraduate Diploma
+**New England Conservatory, Boston USA (1998 - 2002)** - Bachelor of Music
 
 ### Spoken Languages
 
-  **English** (fluent)
-  **Mandarin-Chinese** (fluent)
-  **French** (intermediate level)
+* English (fluent)
+* Mandarin-Chinese (fluent)
+* French (intermediate level)
 
 ### Hobbies
 
