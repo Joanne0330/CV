@@ -27,9 +27,11 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 ## Notable Projects
 
 [AIsha - Artificial.Intelligence.Self.Help.App](https://github.com/aravzpatel/AIsha)**(React, Flask, Python, Heroku)**
+
   **Description:** A machine learning chatbot which analyses user’s emotions (joy, sadness, anger and fear) after a text input, then replies with appropriate responses. The result is then stored in the data and prints out a graph of these emotions for the user to track his/her daily progress.
 
 [Dreambook](https://github.com/katieljones/acebook-dreambook-2020)**(Rails, Ruby, Postgres, Heroku)**
+
   **Description:**A mock facebook where user can create an account with email and password, sign-in and sign-out, and write, update, delete messages on the feed. Other users can also comment on the messages, and click ‘like’. Each user also has his or her own wall.
 
 ## Past Professions
@@ -37,9 +39,13 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 ### Freelance classical musician (violin) performing with:
 
 **BBC Symphony Orchestra (2016 - recent)**
+
 **Royal Philharmonic Orchestra (2014 - recent)**
+
 **London Philharmonic Orchestra (2007 - recent)**
+
 **Philharmonic Orchestra (2012 - recent)**
+
  - strong determination to achieve high-level skills. 
  - attention to details to give world-class performances.
  - ability to work in large teams on regular basis.  
@@ -47,7 +53,9 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 ### Faculty of Violin, teaching in the following schools:
 
 **St. Marylebone School, London (2012 - recent)**
+
 **Townley Grammar School, Bexley Kent (2013 - recent)**
+
  - ability to observe and analyse a problem in a student's playing.
  - able to quickly form a structured plan and solution to solve the problem.
  - verbalise and demonstrate the plan in a friendly and supportive manner.
@@ -61,9 +69,12 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 
 ## Education
 
-**Makers Academy (May - August 2020)** - Software Development**
+**Makers Academy (May - August 2020)** - Software Development
+
 **Guildhall School of Music and Drama (2005 - 2007)** - Master of Music 
+
 **Conservatory of Amsterdam, the Netherlands (2002 - 2004)** - Postgraduate Diploma
+
 **New England Conservatory, Boston USA (1998 - 2002)** - Bachelor of Music
 
 ### Spoken Languages
