@@ -14,6 +14,12 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 
 ## About Me
 
+If you read through my CV you'll see that I come from a background of classical music. Slightly unusual? Perhaps. It is not a secret that I've always loved and enjoyed the beauty and the complexity of this fine art, but what's unusual is that I absolutely LOVE practicing more than anything. I love making progress, learning something from scratch to performing this master piece to the highest technical and musical level I can achieve. I love planning and finding my own way in making good progress, in a intellectual and methodical way to achieve the ultimate goal step by step and in a orderly fashion so no time and engergy is wasted. The result is rewarding but it's the journey that's is worth living for.
+
+Am I really that odd? I'm not so sure...
+
+A few friends suggested that I should checkout coding. I looked into it and the rest is history. With great determination, I got myself in Makers Academy coding bootcamp in just a few weeks, and 4 months later, I started to build full-stack softwares in small teams. The more I build the more I want to learn. I am excited by the challenging complexity and how each element of codes intertwines with one another. I want to continue building and expressing my creativity through the software building, in hopes that what I create with my team and my company, can help make a difference in people's lives
+
 <br>
 
 ## Traing in Software Development
@@ -84,6 +90,5 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 * Cooking. Watching food programmes and trying new recipes from different parts of the world. 
 * Travelling around the world, visiting museums and historical sites. mild hiking trips.
 * Playing chamber music with friends. Favourite composers are: Bach, Mendelssohn, Brahms, Bartok, and Ravel. 
-* Community services such as volunteer music teaching to children in refugee camps, playing music for patients in        
-  hospitals, creating cultural and musical community projects, etc. 
+* Community services such as volunteer music teaching to children in refugee camps, playing music for patients in     hospitals, creating cultural and musical community projects, etc. 
 
