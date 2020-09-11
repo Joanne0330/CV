@@ -32,40 +32,36 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 
 [Dreambook](https://github.com/katieljones/acebook-dreambook-2020)**(Rails, Ruby, Postgres, Heroku)**
 
-  **Description:**A mock facebook where user can create an account with email and password, sign-in and sign-out, and write, update, delete messages on the feed. Other users can also comment on the messages, and click ‘like’. Each user also has his or her own wall.
+  **Description:** A mock facebook where user can create an account with email and password, sign-in and sign-out, and write, update, delete messages on the feed. Other users can also comment on the messages, and click ‘like’. Each user also has his or her own wall.
 
 ## Past Professions
 
 ### Freelance classical musician (violin) performing with:
 
-**BBC Symphony Orchestra (2016 - recent)**
+- **BBC Symphony Orchestra (2016 - recent)**
+- **Royal Philharmonic Orchestra (2014 - recent)**
+- **London Philharmonic Orchestra (2007 - recent)**
+- **Philharmonic Orchestra (2012 - recent)**
 
-**Royal Philharmonic Orchestra (2014 - recent)**
-
-**London Philharmonic Orchestra (2007 - recent)**
-
-**Philharmonic Orchestra (2012 - recent)**
-
- - strong determination to achieve high-level skills. 
- - attention to details to give world-class performances.
- - ability to work in large teams on regular basis.  
+   - Demostrating strong determination and decipline for a long period of time to achieve high-level skills. 
+   - Able to pay attention to details to give world-class performances as a team member.
+   - Showing ability to work and travel in large teams on professional and social level.  
 
 ### Faculty of Violin, teaching in the following schools:
 
-**St. Marylebone School, London (2012 - recent)**
+- **St. Marylebone School, London (2012 - recent)**
+- **Townley Grammar School, Bexley Kent (2013 - recent)**
 
-**Townley Grammar School, Bexley Kent (2013 - recent)**
-
- - ability to observe and analyse a problem in a student's playing.
- - able to quickly form a structured plan and solution to solve the problem.
- - verbalise and demonstrate the plan in a friendly and supportive manner.
- - planning longterm goals for students to follow, preparing important exams.
+   - Strong and quick analytical ability and accute observation over students' playing during lessons.
+   - Ability to quickly form a structured plan and solution for students to focus on for improvement.
+   - Ability to verbalise and demonstrate the plan in a friendly and supportive manner.
+   - Showing patience and ability to plan longterm goals for students, especially for important concerts or exams.
 
 ### Founder and Violinist of the Mancini String Quartet
- - ability to communicate with clients for weddings and other events.
- - arrange music for ensembles.
- - organise travel and booking arrangements for musicians.
- - ensuring smooth running of the service on the day.
+   - Demonstrating experieces in good communications with clients for weddings and other events.
+   - Ability to arrange music for particular ensembles in creatvie and formatic ways to satisfy clients' requests.
+   - Experiences in organising travel and other arrangements for musicians in the ensemble.
+   - Expereices in ensuring smooth running of the service on the day.
 
 ## Education
 
@@ -86,7 +82,8 @@ I'm ready to jump into any challenge. Learning and growing is the aim of the gam
 ### Hobbies
 
 * Cooking. Watching food programmes and trying new recipes from different parts of the world. 
-* Travelling around the world, visiting museums and historical sites.
+* Travelling around the world, visiting museums and historical sites. mild hiking trips.
 * Playing chamber music with friends. Favourite composers are: Bach, Mendelssohn, Brahms, Bartok, and Ravel. 
-* Volunteer teaching music to children in refugee camps, and playing music for patients in hospital, etc. 
+* Community services such as volunteer music teaching to children in refugee camps, playing music for patients in        
+  hospitals, creating cultural and musical community projects, etc. 
 
