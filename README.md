@@ -4,22 +4,21 @@
 <div align="center">
 
 <em>
-Why did I want to be a developer? <br>
-I want to build cool things, solve challenging problems and one day mentor and help people in an industry I love!<br><br>
+Why software development? <br>
+I enjoy solving challenging problems and building creative things which people will benefit from using!<br><br>
 Why me? <br>
-I'm ready to jump into any challenge. Learning and growing is the aim of the game so that I can one day help others learn and grow.
+I crave learning and extending my knowledge. I'm friendly and humble. I have a strong sense of responsibility towards my job and the people around me. I will always strive for the highest level of performances possible.
 </em>
 </div>
 <br>
 
 ## About Me
 
-If you read through my CV you'll see that I come from a background of classical music. Slightly unusual? Perhaps. It is not a secret that I've always loved and enjoyed the beauty and the complexity of this fine art, but what's unusual is that I absolutely LOVE practicing more than anything. I love making progress, learning something from scratch to performing this master piece to the highest technical and musical level I can achieve. I love planning and finding my own way in making good progress, in a intellectual and methodical way to achieve the ultimate goal step by step and in a orderly fashion so no time and engergy is wasted. The result is rewarding but it's the journey that's is worth living for.
+If you read through my CV you'll see that I come from a background of classical music. Unusual? Perhaps. To me, this form of fine art is irresistable, but what I love the most from it is actually practicing. I LOVE making progress, learning something new, and building up my ability to perform any piece of music from scratch and bring it to the highest level I can achieve. I love planning and finding ways to improve methodically to achieve the ultimate goal step by step. Repetition is necessary but it must be done intellectually so that no time and engergy is wasted... 
 
-Am I really that odd? I'm not so sure...
+And then coding came along...
 
-A few friends suggested that I should checkout coding. I looked into it and the rest is history. With great determination, I got myself in Makers Academy coding bootcamp in just a few weeks, and 4 months later, I started to build full-stack softwares in small teams. The more I build the more I want to learn. I am excited by the challenging complexity and how each element of codes intertwines with one another. I want to continue building and expressing my creativity through the software building, in hopes that what I create with my team and my company, can help make a difference in people's lives
-
+A few friends suggested that I should checkout coding. I looked into it and the rest is history. I am excited by it for the same reasons as I love practicing and now all I want to do is to become a great developer. I got myself in Makers Academy coding bootcamp just 3 weeks after I started coding, and now I'm building full-stack softwares after 4 months of training. The more I build the more I want to learn. I cannot wait to continue building creative apps that are cool, easy to use and life changing for their users.
 <br>
 
 ## Traing in Software Development
@@ -40,6 +39,14 @@ A few friends suggested that I should checkout coding. I looked into it and the 
 
   **Description:** A mock facebook where user can create an account with email and password, sign-in and sign-out, and write, update, delete messages on the feed. Other users can also comment on the messages, and click ‘like’. Each user also has his or her own wall.
 
+[Shopping List](https://github.com/Joanne0330/shopping-list-react)**(React)**
+
+  **Description:** A one page front-end app which a user can enter some text to be added to a list. The user can also delete the text input from the list. Each text input also has a checkbox next to it which the user can click and the text will have a line going through. 
+
+[Bank Tech Test](https://github.com/Joanne0330/BankTechTest)**(Ruby, Rspec)**
+
+  **Description:** A tech test in Ruby with unit and feature tests. Demonstrating clean codes using single responsibility principal and mock testing.
+
 ## Past Professions
 
 ### Freelance classical musician (violin) performing with:
@@ -50,7 +57,7 @@ A few friends suggested that I should checkout coding. I looked into it and the 
 - **Philharmonic Orchestra (2012 - recent)**
 
    - Demostrating strong determination and decipline for a long period of time to achieve high-level skills. 
-   - Able to pay attention to details to give world-class performances as a team member.
+   - Ability to pay attention to details to give world-class performances as a team member.
    - Showing ability to work and travel in large teams on professional and social level.  
 
 ### Faculty of Violin, teaching in the following schools:
