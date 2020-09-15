@@ -14,14 +14,14 @@ I crave learning and extending my knowledge. I'm friendly and humble. I have a s
 
 ## About Me
 
-If you read through my CV you'll see that I come from a background of classical music. Unusual? Perhaps. To me, this form of fine art is irresistable, but what I love the most from it is actually practicing. I LOVE making progress, learning something new, and building up my ability to perform any piece of music from scratch and bring it to the highest level I can achieve. I love planning and finding ways to improve methodically to achieve the ultimate goal step by step. Repetition is necessary but it must be done intellectually so that no time and engergy is wasted... 
+If you read through my CV you'll see that I come from a background of classical music. Unusual? Perhaps. To me, this form of fine art is irresistible, but what I love the most from it is actually practicing. I LOVE making progress, learning something new, and building up my ability to perform any piece of music from scratch and bring it to the highest level I can achieve. I love planning and finding ways to improve methodically to achieve the ultimate goal step by step. Repetition is necessary but it must be done intellectually so that no time and energy is wasted... 
 
 And then coding came along...
 
 A few friends suggested that I should checkout coding. I looked into it and the rest is history. I am excited by it for the same reasons as I love practicing and now all I want to do is to become a great developer. I got myself in Makers Academy coding bootcamp just 3 weeks after I started coding, and now I'm building full-stack softwares after 4 months of training. The more I build the more I want to learn. I cannot wait to continue building creative apps that are cool, easy to use and life changing for their users.
 <br>
 
-## Traing in Software Development
+## Training in Software Development
 ### Makers Academy, London (May - August 2020)
 
 - **Languages:** Ruby, JavaScript, Python, SQL, HTML, CSS
@@ -56,7 +56,7 @@ A few friends suggested that I should checkout coding. I looked into it and the 
 - **London Philharmonic Orchestra (2007 - recent)**
 - **Philharmonic Orchestra (2012 - recent)**
 
-   - Demostrating strong determination and decipline for a long period of time to achieve high-level skills. 
+   - Demonstrating strong determination and discipline for a long period of time to achieve high-level skills. 
    - Ability to pay attention to details to give world-class performances as a team member.
    - Showing ability to work and travel in large teams on professional and social level.  
 
@@ -65,16 +65,16 @@ A few friends suggested that I should checkout coding. I looked into it and the 
 - **St. Marylebone School, London (2012 - recent)**
 - **Townley Grammar School, Bexley Kent (2013 - recent)**
 
-   - Strong and quick analytical ability and accute observation over students' playing during lessons.
+   - Strong and quick analytical ability and acute observation over students' playing during lessons.
    - Ability to quickly form a structured plan and solution for students to focus on for improvement.
    - Ability to verbalise and demonstrate the plan in a friendly and supportive manner.
    - Showing patience and ability to plan longterm goals for students, especially for important concerts or exams.
 
 ### Founder and Violinist of the Mancini String Quartet
-   - Demonstrating experieces in good communications with clients for weddings and other events.
-   - Ability to arrange music for particular ensembles in creatvie and formatic ways to satisfy clients' requests.
+   - Demonstrating experiences in good communications with clients for weddings and other events.
+   - Ability to arrange music for particular ensembles in creative and formmatic ways to satisfy clients' requests.
    - Experiences in organising travel and other arrangements for musicians in the ensemble.
-   - Expereices in ensuring smooth running of the service on the day.
+   - Experiences in ensuring smooth running of the service on the day.
 
 ## Education
 
