@@ -7,27 +7,15 @@
 Why software development? <br>
 I enjoy solving challenging problems and building creative things which people will benefit from using!<br><br>
 Why me? <br>
-I crave learning and extending my knowledge. I'm friendly and humble. I have a strong sense of responsibility towards my job and the people around me. I will always strive for the highest level of performances possible.
+I crave learning and extending my knowledge. I'm friendly and humble. I have a strong sense of responsibility towards my job and the people around me. I will always strive for the highest level of performance possible.
 </em>
 </div>
 <br>
 
 ## About Me
 
-If you read through my CV you'll see that I come from a background of classical music. Unusual? Perhaps. To me, this form of fine art is irresistible, but what I love the most from it is actually practicing. I LOVE making progress, learning something new, and building up my ability to perform any piece of music from scratch and bring it to the highest level I can achieve. I love planning and finding ways to improve methodically to achieve the ultimate goal step by step. Repetition is necessary but it must be done intellectually so that no time and energy is wasted... 
-
-And then coding came along...
-
-A few friends suggested that I should checkout coding. I looked into it and the rest is history. I am excited by it for the same reasons as I love practicing and now all I want to do is to become a great developer. I got myself in Makers Academy coding bootcamp just 3 weeks after I started coding, and now I'm building full-stack softwares after 4 months of training. The more I build the more I want to learn. I cannot wait to continue building creative apps that are cool, easy to use and life changing for their users.
+I am a energetic software developer who is creative, driven and passionate about what I do. Coming from a background of classical music, I know how to transform a desire from wanting to be good at something, wanting to create something amazing to acutually achieving these goals. I've experienced the discipline, the methodical planning, and the motivation that is needed for endless learning process such as music. Now, as a coder, I am transfering those skills and experience from music to software building, creating apps in hopes to transform the lives around us. 
 <br>
-
-## Training in Software Development
-### Makers Academy, London (May - August 2020)
-
-- **Languages:** Ruby, JavaScript, Python, SQL, HTML, CSS
-- **Framework, libraries, databases:** React, Rails, Flask, PostgresSQL, MongoDB
-- **TDD Testing with:** Rspec, Jasmine, Jest, Unittest, Capybara
-- **Other experience in:** Agile group projects, pair programming, TravisCI, Heroku
 
 ## Notable Projects
 
@@ -46,8 +34,24 @@ A few friends suggested that I should checkout coding. I looked into it and the 
 [Bank Tech Test](https://github.com/Joanne0330/BankTechTest)**(Ruby, Rspec)**
 
   **Description:** A tech test in Ruby with unit and feature tests. Demonstrating clean codes using single responsibility principal and mock testing.
+<br>  
 
-## Past Professions
+## Skills
+
+### Software Development - Training at the Makers Academy, London (May - August 2020)
+
+- **Languages:** Ruby, JavaScript, Python, SQL, HTML, CSS
+- **Framework, libraries, databases:** React, Rails, Flask, PostgresSQL, MongoDB
+- **TDD Testing with:** Rspec, Jasmine, Jest, Unittest, Capybara, Rubocop, Simplecov
+- **CI/CD pipeline with:** TravisCI, Heroku
+- **Other experience in:** AGILE working environment: pair programming, daily stand-ups and retros, planning 2-days sprint, MVP, Trello board and various project design by using diagrams and wireframe. 
+
+### Other skills
+I've had the priviledge in the past to work (and travel!) in large teams of a hundred as well as in small teams from 2 to 6. I understand and do well in the roles I am given, whether as a support or a leader, or an organiser, I know how to contribute to benefit the team. I am organised but flexible at the same time, with good communication skill that allows me to express with clarify and maintain friendly and professional atmosphere all around. I also mentor the young and talented by setting approachable goals for them with encouragement, patience, and with visions for improvement.  
+
+<br>
+
+## Past Professions and experience
 
 ### Freelance classical musician (violin) performing with:
 
@@ -55,7 +59,7 @@ A few friends suggested that I should checkout coding. I looked into it and the 
 - **Royal Philharmonic Orchestra (2014 - recent)**
 - **London Philharmonic Orchestra (2007 - recent)**
 - **Philharmonic Orchestra (2012 - recent)**
-
+       
    - Demonstrating strong determination and discipline for a long period of time to achieve high-level skills. 
    - Ability to pay attention to details to give world-class performances as a team member.
    - Showing ability to work and travel in large teams on professional and social level.  
@@ -75,6 +79,7 @@ A few friends suggested that I should checkout coding. I looked into it and the 
    - Ability to arrange music for particular ensembles in creative and formmatic ways to satisfy clients' requests.
    - Experiences in organising travel and other arrangements for musicians in the ensemble.
    - Experiences in ensuring smooth running of the service on the day.
+<br>
 
 ## Education
 
@@ -82,7 +87,7 @@ A few friends suggested that I should checkout coding. I looked into it and the 
 
 **Guildhall School of Music and Drama (2005 - 2007)** - Master of Music 
 
-**Conservatory of Amsterdam, the Netherlands (2002 - 2004)** - Postgraduate Diploma
+**Conservatorium van Amsterdam, the Netherlands (2002 - 2004)** - Postgraduate Diploma
 
 **New England Conservatory, Boston USA (1998 - 2002)** - Bachelor of Music
 
@@ -97,5 +102,5 @@ A few friends suggested that I should checkout coding. I looked into it and the 
 * Cooking. Watching food programmes and trying new recipes from different parts of the world. 
 * Travelling around the world, visiting museums and historical sites. mild hiking trips.
 * Playing chamber music with friends. Favourite composers are: Bach, Mendelssohn, Brahms, Bartok, and Ravel. 
-* Community services such as volunteer music teaching to children in refugee camps, playing music for patients in     hospitals, creating cultural and musical community projects, etc. 
+* Community services such as volunteer music teaching to children in refugee camps, playing music for patients in hospitals, creating cultural and musical community projects, etc. 
 
