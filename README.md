@@ -47,7 +47,7 @@ I am a energetic software developer who is creative, driven and passionate about
 - **Other experience in:** AGILE working environment: pair programming, daily stand-ups and retros, planning 2-days sprint, MVP, Trello board and various project design by using diagrams and wireframe. 
 
 ### Other skills
-I've had the priviledge in the past to work (and travel!) in large teams of a hundred as well as in small teams from 2 to 6. I understand and do well in the roles I am given, whether as a support, a leader or an organiser, I know how to contribute to benefit the team. I am organised but flexible at the same time, with good communication skill that allows me to express with clarify and maintain friendly and professional atmosphere all around. I also mentor the young and talented by setting approachable goals for them with encouragement, patience, and with methodical plans for improvement.  
+I've had the priviledge in the past to work (and travel!) in large teams of a hundred as well as in small teams from 2 to 6. I understand and do well in the roles I am given, whether as a support, a leader or an organiser, I know how to contribute to benefit the team. I am organised but flexible at the same time, with good communication skill that allows me to express with clarity and maintain friendly and professional atmosphere all around. I also mentor the young and talented by setting approachable goals for them with encouragement, patience, and with methodical plans for improvement.  
 
 <br>
 
