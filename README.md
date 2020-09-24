@@ -60,25 +60,23 @@ I've had the priviledge in the past to work (and travel!) in large teams of a hu
 - **London Philharmonic Orchestra (2007 - recent)**
 - **Philharmonic Orchestra (2012 - recent)**
        
-   - Demonstrating strong determination and discipline for a long period of time to achieve high-level skills. 
-   - Ability to pay attention to details to give world-class performances as a team member.
-   - Showing ability to work and travel in large teams on professional and social level.  
+   - Worldwide concerts in venues such as Royal Albert Hall, Carnegie Hall, Berlin Philharmonie, and Paris Theatre de Champs Elysees, to audience number up to 10,000. 
+   - Demonstrating ability to achieve lifelong craftsmanship, refined artistry, creativity, discipline and strong determination to achieve high-level skills.
+   - Experience in working in small and large teams from 2 to 100 people.  
 
 ### Faculty of Violin, teaching in the following schools:
 
 - **St. Marylebone School, London (2012 - recent)**
 - **Townley Grammar School, Bexley Kent (2013 - recent)**
 
-   - Strong and quick analytical ability and acute observation over students' playing during lessons.
-   - Ability to quickly form a structured plan and solution for students to focus on for improvement.
-   - Ability to verbalise and demonstrate the plan in a friendly and supportive manner.
-   - Showing patience and ability to plan longterm goals for students, especially for important concerts or exams.
+   - Strong analytical, organisational and communicational skills.
+   - 15 years of experience in problem solving in short space of time (30min lessons).
+   - Demonstrating positive attitude, patience and flexibility to adapt to each individual’s need.
 
 ### Founder and Violinist of the Mancini String Quartet
-   - Demonstrating experiences in good communications with clients for weddings and other events.
+   - Demonstrating experiences in good communications with clients for events such as weddings and parties.
    - Ability to arrange music for particular ensembles in creative and formmatic ways to satisfy clients' requests.
-   - Experiences in organising travel and other arrangements for musicians in the ensemble.
-   - Experiences in ensuring smooth running of the service on the day.
+   - Experiences in organising travel and other arrangements for musicians in the ensemble, and ensuring smooth running of the service on the day.
 <br>
 
 ## Education
