@@ -26,7 +26,19 @@ I am a energetic software developer who is creative, driven and passionate about
 [Dreambook](https://github.com/katieljones/acebook-dreambook-2020)**(Rails, Ruby, Postgres, Heroku)**
 
   **Description:** A mock facebook where user can create an account with email and password, sign-in and sign-out, and write, update, delete messages on the feed. Other users can also comment on the messages, and click ‘like’. Each user also has his or her own wall.
+  
+[Tetris Interactive Game](https://github.com/Joanne0330/Tetris-interactive-game)**(JavaScript, HTML, CSS)**
 
+  **Description:** A short but complex interactive game that was built purely from Vanilla JavaScript, showcasing knowledge of positioning and looping.
+
+[My Portfolio](https://github.com/Joanne0330/My-Portfolio)**(React)**
+
+  **Description:** A personal, interactive website showcasing my bio, projects, and other contact information. It includes usage of API and 3 different routes. 
+  
+[Jem Photo Share](https://github.com/Joanne0330/Jem-Photoshare)**(Rails, Ruby, MongoDB)**
+  
+  **Description:** A social media app that can be described as a hybrid of Facebook and Instagram, where user can post and store photos and comments. Using Bootstrap and Fontawesome gems for styling.
+  
 [Shopping List](https://github.com/Joanne0330/shopping-list-react)**(React)**
 
   **Description:** A one page front-end app which a user can enter some text to be added to a list. The user can also delete the text input from the list. Each text input also has a checkbox next to it which the user can click and the text will have a line going through. 
