@@ -23,7 +23,7 @@ I am a energetic software developer who is creative, driven and passionate about
 
   **Description:** A machine learning chatbot which analyses user’s emotions (joy, sadness, anger and fear) after a text input, then replies with appropriate responses. The result is then stored in the data and prints out a graph of these emotions for the user to track his/her daily progress.
   
-[Dev Connector](https://github.com/Joanne0330/DevConnectorMERN)**(React, Redux, JavaScript, Node.js, Express, MondgoDB, Heroku)**
+[Dev Connector](https://github.com/Joanne0330/DevConnectorMERN)**(React, Redux, Node.js, Express, MondgoDB, Heroku)**
 
   **Description:** My most extensive social media designed to connect software developers, where developers can list their experiences and education in their profile, showcase 5 latest Github repos from their Github API, write posts and make comments on each other's posts. Full CRUD is applied in this app.
 
