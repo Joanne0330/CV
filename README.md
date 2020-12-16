@@ -22,6 +22,10 @@ I am a energetic software developer who is creative, driven and passionate about
 [AIsha - Artificial.Intelligence.Self.Help.App](https://github.com/aravzpatel/AIsha)**(React, Flask, Python, Heroku)**
 
   **Description:** A machine learning chatbot which analyses user’s emotions (joy, sadness, anger and fear) after a text input, then replies with appropriate responses. The result is then stored in the data and prints out a graph of these emotions for the user to track his/her daily progress.
+  
+[Dev Connector](https://github.com/Joanne0330/DevConnectorMERN)**(React, Redux, JavaScript, Node.js, Express, MondgoDB)**
+
+  **Description:** A social mediate designed to connect software developers, where developers can list their experiences and education in their profile, showcase Github repos from Github API, write posts for and make comments. Full CRUD is applied in this app.
 
 [Dreambook](https://github.com/katieljones/acebook-dreambook-2020)**(Rails, Ruby, Postgres, Heroku)**
 
