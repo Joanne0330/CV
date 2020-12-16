@@ -56,10 +56,10 @@ I am a energetic software developer who is creative, driven and passionate about
 
 ### Software Development - Training at the Makers Academy, London (May - August 2020)
 
-- **Languages:** Ruby, JavaScript, SQL, HTML, CSS, and basic Python
-- **Framework, libraries, databases:** React, Rails, Flask, Node.js, Express, PostgresSQL, MongoDB
+- **Languages:** JavaScript, Ruby, Node.js, SQL, HTML, CSS, and basic Python
+- **Framework, libraries, databases:** React, Rails, Flask, Redux, Express, PostgresSQL, MongoDB
 - **TDD Testing with:** Rspec, Jasmine, Jest, Unittest, Capybara, Rubocop, Simplecov
-- **CI/CD pipeline with:** TravisCI, Heroku
+- **CI/CD pipeline, deployment with:** TravisCI, Heroku
 - **Other experience in:** AGILE working environment: pair programming, daily stand-ups and retros, planning 2-days sprint, MVP, Trello board and various project design by using diagrams and wireframe. 
 
 ### Other skills
