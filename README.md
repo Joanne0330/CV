@@ -25,7 +25,7 @@ I am a energetic software developer who is creative, driven and passionate about
   
 [Dev Connector](https://github.com/Joanne0330/DevConnectorMERN)**(React, Redux, JavaScript, Node.js, Express, MondgoDB, Heroku)**
 
-  **Description:** A social mediate designed to connect software developers, where developers can list their experiences and education in their profile, showcase Github repos from Github API, write posts for and make comments. Full CRUD is applied in this app.
+  **Description:** My most extensive social media designed to connect software developers, where developers can list their experiences and education in their profile, showcase 5 latest Github repos from their Github API, write posts and make comments on each other's posts. Full CRUD is applied in this app.
 
 [Dreambook](https://github.com/katieljones/acebook-dreambook-2020)**(Rails, Ruby, Postgres, Heroku)**
 
