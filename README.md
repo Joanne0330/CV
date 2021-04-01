@@ -19,11 +19,15 @@ I am a energetic software developer who is creative, driven and passionate about
 
 ## Notable Projects
 
+[Live Well Eat Well](https://github.com/Joanne0330/MERN_LiveWellEatWell)**(React, Node.js, Express, MongoDB, Heroku)**
+
+  **Description:**
+
 [AIsha - Artificial.Intelligence.Self.Help.App](https://github.com/aravzpatel/AIsha)**(React, Flask, Python, Heroku)**
 
   **Description:** A machine learning chatbot which analyses user’s emotions (joy, sadness, anger and fear) after a text input, then replies with appropriate responses. The result is then stored in the data and prints out a graph of these emotions for the user to track his/her daily progress.
   
-[Dev Connector](https://github.com/Joanne0330/DevConnectorMERN)**(React, Redux, Node.js, Express, MondgoDB, Heroku)**
+[Dev Connector](https://github.com/Joanne0330/DevConnectorMERN)**(React, Redux, Node.js, Express, MongoDB, Heroku)**
 
   **Description:** My most extensive social media designed to connect software developers, where developers can list their experiences and education in their profile, showcase 5 latest Github repos from their Github API, write posts and make comments on each other's posts. Full CRUD is applied in this app.
 
