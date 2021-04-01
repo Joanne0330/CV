@@ -21,7 +21,7 @@ I am a energetic software developer who is creative, driven and passionate about
 
 [Live Well Eat Well](https://github.com/Joanne0330/MERN_LiveWellEatWell)**(React, Node.js, Express, MongoDB, Heroku)**
 
-  **Description:**
+  **Description:** Well-Being App using 3rd party API to search recipes via ingredient(s), user can add and delete recipes to collection. User can also record daily activities and have scores printed on a graph, and receive a reminder email to do more exercise if physical score is too low!
 
 [AIsha - Artificial.Intelligence.Self.Help.App](https://github.com/aravzpatel/AIsha)**(React, Flask, Python, Heroku)**
 
